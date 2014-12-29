@@ -1,3 +1,13 @@
+这里是一个phabricator的中文版分支。
+中文版分支会完全保留phabricator的原版功能，仅仅做一些本地化的工作。
+此外，我们还希望加入一下功能（在不与phabricator原版冲突的前提下）：
+  - 即时聊天
+  - 周报撰写
+  - 更易用的todo-list（像tower一样）
+  - 等等
+
+以下是原版的README
+
 Phabricator is an open source collection of web applications which help
 software companies build better software.
 
